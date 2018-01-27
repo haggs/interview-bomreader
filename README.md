@@ -2,6 +2,7 @@
 A utility for reading BOM files.
 
 Author: Dan Haggerty (daniel.r.haggerty@gmail.com)
+
 Date: Jan. 11th, 2018
 
 This module provides a BOMReader class and a command-line tool for reading a
