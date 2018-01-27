@@ -16,7 +16,7 @@ from each line, and keeps a counter (max heap) of the number of occurrences of
 each part.
 
 Usage:
-    python bomdotcom.py test_files/example.bom
+    python bomreader.py test_files/example.bom
 
 Example BOM file:
     2

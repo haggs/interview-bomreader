@@ -1,4 +1,4 @@
-# bomdotcom
+# BOM Reader
 A utility for reading BOM files.
 
 Author: Dan Haggerty (daniel.r.haggerty@gmail.com)
@@ -18,11 +18,15 @@ each part.
 python bomdotcom.py test_files/example.bom
 python bomdotcom_test.py
 
-## Example BOM file:
+## Example BOM file
 2
+
 Wintermute Systems -- CASE-19201:A2,A3
+
 AXXX-1000:Panasonic:D1,D8,D9
+
 Z1,Z3;40001;Keystone
+
 Z1,Z3,Z8;40001;Keystone
 
 ## Notes
