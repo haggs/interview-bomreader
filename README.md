@@ -16,6 +16,7 @@ each part.
 
 ## Usage
 python bomdotcom.py test_files/example.bom
+
 python bomdotcom_test.py
 
 ## Example BOM file
@@ -29,6 +30,3 @@ Z1,Z3;40001;Keystone
 
 Z1,Z3,Z8;40001;Keystone
 
-## Notes
-An MPN can be common across multiple manufacturers, so this file uses the
-term "key" to refer to a unique MPN + manufacturer combination.
