@@ -1,5 +1,5 @@
 # BOM Reader
-A utility for reading BOM files.
+A utility for reading bills of material (BOMs).
 
 Author: Dan Haggerty (daniel.r.haggerty@gmail.com)
 
