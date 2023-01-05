@@ -1,5 +1,5 @@
 # BOM Reader
-A utility for reading bills of material (BOMs).
+A python utility for reading a bill of material (BOM) file in a contrived format. This is for a programming take-home interview I did in 2018.
 
 Author: Dan Haggerty (daniel.r.haggerty@gmail.com)
 
